@@ -28,7 +28,7 @@ Select the objects to modify then specify the distance or angle. Use set pivot t
 ### STEP 1: 
  Identifying the given model.
 
-### STEP 2: Importing the components.
+### STEP 2: Importing the components
 Firstly, we import all the necessary parts into the assembly project. Here, we use Finger, gear linkage, Secondary Linkage, Base. For, Importing the components into the project, we use the insert derive option in the Insert>Insert Derive.
 
 ### STEP 3: 
